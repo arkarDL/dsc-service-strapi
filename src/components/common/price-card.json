@@ -1,0 +1,24 @@
+{
+  "collectionName": "components_common_price_cards",
+  "info": {
+    "displayName": "PriceCard"
+  },
+  "options": {},
+  "attributes": {
+    "monthly_price": {
+      "type": "string"
+    },
+    "yearly_price": {
+      "type": "string"
+    },
+    "plan_name": {
+      "type": "string"
+    },
+    "plan_detail": {
+      "type": "richtext"
+    },
+    "plan_description": {
+      "type": "string"
+    }
+  }
+}

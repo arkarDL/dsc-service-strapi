@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_common_navigations",
+  "info": {
+    "displayName": "Navigation",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "slug": {
+      "type": "string"
+    },
+    "components": {
+      "type": "enumeration",
+      "enum": [
+        "ComponentSectionsHero",
+        "ComponentSectionsPricing",
+        "ComponentSectionsColumn",
+        "ComponentSectionsBannerTwo"
+      ]
+    }
+  }
+}

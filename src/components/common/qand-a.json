@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_common_qand_as",
+  "info": {
+    "displayName": "QandA",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "answer": {
+      "type": "string"
+    },
+    "content": {
+      "type": "richtext"
+    }
+  }
+}

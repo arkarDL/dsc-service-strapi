@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_sections_banner_twos",
+  "info": {
+    "displayName": "Banner_Two"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "content": {
+      "type": "richtext"
+    },
+    "image": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": true
+    }
+  }
+}

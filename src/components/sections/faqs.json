@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_common_faqs",
+  "info": {
+    "displayName": "faqs",
+    "icon": "anchor",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "content": {
+      "type": "component",
+      "repeatable": true,
+      "component": "common.qand-a"
+    }
+  }
+}
